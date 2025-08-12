@@ -1,0 +1,22 @@
+#requriements.txt
+# This file contains the dependencies for the ML project.
+pandas
+numpy 
+scikit-learn
+matplotlib
+seaborn
+scipy
+tensorflow
+keras
+flask
+requests
+openpyxl
+pytest
+xgboost
+joblib
+plotly
+nltk
+spacy
+transformers
+torch
+-e .

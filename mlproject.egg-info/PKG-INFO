@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: mlproject
+Version: 0.1
+Summary: A machine learning project for Azure ML
+Author: Sasank Ponnapalli
+Description-Content-Type: text/markdown
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: scipy
+Requires-Dist: tensorflow
+Requires-Dist: keras
+Requires-Dist: flask
+Requires-Dist: requests
+Requires-Dist: openpyxl
+Requires-Dist: pytest
+Requires-Dist: xgboost
+Requires-Dist: joblib
+Requires-Dist: plotly
+Requires-Dist: nltk
+Requires-Dist: spacy
+Requires-Dist: transformers
+Requires-Dist: torch
+
+## End to End Machine Learning Project
